@@ -38,4 +38,4 @@ The script outputs a list in the format:
 
 ## License
 
-[Add your license here]
+GNU GENERAL PUBLIC LICENSE v3
